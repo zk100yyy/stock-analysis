@@ -7,9 +7,9 @@
 ## Results of the Analysis
 #### After we run the code for 2017 and 20018 we get the below data presented in a formatted table:
 ### 2017 Stock Analysis:
-![Stock Analysis 2017](/Resources/Stock_Analysis_2017.PNG)
+![Stock Analysis 2017](https://github.com/zk100yyy/stock-analysis/blob/main/Resources/Stock_Analysis_2017.png?raw=true)
 ### 2018 Stock Analysis:
-![Stock Analysis 2018](/Resources/Stock_Analysis_2018.PNG)
+![Stock Analysis 2018](https://github.com/zk100yyy/stock-analysis/blob/main/Resources/Stock_Analysis_2018.png?raw=true)
 
 ## Runtime comparison Original vs Refactored
 ### 2017 Original Runtime:
