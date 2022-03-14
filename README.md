@@ -1,8 +1,8 @@
 # Stock Analysis - VBA Challenge
 ## Project Overview
-#### We had created a workbook that goes through the data and outputs stock analysis for each ticker in the code. The analysis shows the total volume traded as well as the annual return. The information is presented in a formatted table. Now we're trying to see if we can make the code run faster and more efficient. The code runs well for 12 stocks but it might not run as well for thousands of stocks. 
 
-#### In this challenge we will refactor our code to loop through all the data one time, instead of hacing to go through all the data once for each stock. Then, we will determine whether refactoring the code made the VBA script run faster.
+The workbook we had created that goes through the data and outputs stock analysis for each ticker in the code. The analysis shows the total volume traded as well as the annual return. The information is presented in a formatted table. Now we're trying to see if we can make the code run faster and more efficient. 
+
 
 ## Results of the Analysis
 #### After we run the code for 2017 and 20018 we get the below data presented in a formatted table:
